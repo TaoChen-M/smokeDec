@@ -1,0 +1,9 @@
+detector:
+  method: 'skeleton'
+
+# parallel:
+
+skeleton:
+  max_res: 300
+
+# hybrid:

@@ -1,0 +1,10 @@
+torchvision==0.8.2+cu110
+torch==1.7.1+cu110
+numpy
+opencv-python==4.5.1.48
+opencv-contrib-python==4.5.1.48
+argparse
+yacs
+pickle
+seaborn
+matplotlib

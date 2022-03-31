@@ -1,0 +1,14 @@
+detector:
+  method: 'hybrid'
+
+# parallel:
+
+# skeleton:
+#   max_res: 300
+
+hybrid:
+  max_res: 600
+  dist_thres_low: 5.0
+  dist_thres_high: 50.0
+  patch_size: 50
+  patch_pad: 30
